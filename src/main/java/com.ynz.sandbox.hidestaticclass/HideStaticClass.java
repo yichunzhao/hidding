@@ -9,7 +9,5 @@ public class HideStaticClass {
 
         new ClientModule.Offset();
         new StandardClientModule.Offset();
-
-
     }
 }
