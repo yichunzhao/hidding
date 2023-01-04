@@ -26,3 +26,9 @@ Conneting to remote repo. *git remote add remote_repo_name repo_url*
 
 git remote add origin https://github.com/yichunzhao/hidding.git
 ```
+
+Remove a foler from Remote repo
+```
+git rm -r .idea
+```
+afterwards, commit and push
