@@ -19,3 +19,10 @@ Disconnecting from remote repo
 git remote rm remote_repo_name 
 
 ```
+
+Conneting to remote repo. *git remote add remote_repo_name repo_url*
+
+```
+
+git remote add origin https://github.com/yichunzhao/hidding.git
+```
