@@ -6,4 +6,16 @@ show all remote repo
 
 ```
 git remote -v
+
+remote_repo_name  url
+
+origin  https://github.com/yichunzhao/hidding.git (fetch)
+origin  https://github.com/yichunzhao/hidding.git (push)
+```
+
+disconnecting from remote repo
+
+```
+git remote rm remote_repo_name 
+
 ```
