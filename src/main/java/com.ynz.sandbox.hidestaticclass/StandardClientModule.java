@@ -6,6 +6,7 @@ import lombok.Getter;
 @Getter
 public class StandardClientModule extends ClientModule {
 
+
     @Data
     public static class Offset {
         private int myCurrent;
