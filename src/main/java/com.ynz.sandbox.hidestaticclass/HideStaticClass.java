@@ -7,6 +7,7 @@ public class HideStaticClass {
         ClientModule standardClientModule = new StandardClientModule();
         ClientModule myClientModule = new MyClientModule();
 
+
         new ClientModule.Offset();
         new StandardClientModule.Offset();
     }
