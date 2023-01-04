@@ -2,18 +2,18 @@
 
 ## Git remote CMD
 
-show all remote repo
+Show all remote repo
 
 ```
 git remote -v
 
-remote_repo_name  url
+remote_repo_name url
 
 origin  https://github.com/yichunzhao/hidding.git (fetch)
 origin  https://github.com/yichunzhao/hidding.git (push)
 ```
 
-disconnecting from remote repo
+Disconnecting from remote repo
 
 ```
 git remote rm remote_repo_name 
