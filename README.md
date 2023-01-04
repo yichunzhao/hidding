@@ -14,10 +14,11 @@ origin  https://github.com/yichunzhao/hidding.git (push)
 ```
 
 Disconnecting from remote repo
-
-```
 git remote rm remote_repo_name 
 
+
+```
+git remote rm origin
 ```
 
 Conneting to remote repo. *git remote add remote_repo_name repo_url*
